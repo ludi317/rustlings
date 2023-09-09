@@ -13,7 +13,6 @@
 // Execute `rustlings hint intro1` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
 
 fn main() {
     println!("Hello and");
@@ -34,6 +33,7 @@ fn main() {
         "Going forward, the source of the exercises will always be in the success/failure output."
     );
     println!();
+    println!("test");
     println!(
         "If you want to use rust-analyzer, Rust's LSP implementation, make sure your editor is set"
     );
